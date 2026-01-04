@@ -1,0 +1,22 @@
+{
+  "is-main": false,
+  "import": [
+    "windy/battlebox/core2",
+    "windy/battlebox/math2"
+  ],
+  "link": {
+    "wasm": {
+      "exports": [
+      ]
+    },
+    "wasm-gc": {
+      "exports": [
+      ]
+    },
+    "js": {
+      "exports": [
+      ],
+      "format": "esm"
+    }
+  }
+}
